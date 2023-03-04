@@ -4,7 +4,7 @@
     width:50%;
     height: 2140px;
     margin: 0px auto;
-    text-align: center;
+    text-align: left;
     border: 1px solid rgb(19, 19, 212);
     padding: 20px;
     box-sizing: border-box;
@@ -14,8 +14,11 @@
 
 
 
-#mainHeading{
+header{
     color:red;
+    font-size:50px ;
+    text-align: center;
+    
 }
 
 .funParagragh{
